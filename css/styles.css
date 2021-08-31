@@ -1,0 +1,197 @@
+body{
+   
+    text-align: center;
+    color: #66BFBF;
+   
+}
+
+.top-container{
+    background-color: #F4F9F9;
+    position : relative;
+    padding-top: 100px;
+}
+
+
+h1{
+    font-size: 562.5%;
+    margin : 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    
+}
+h2{
+    font-family: 'IM Fell DW Pica', serif;
+    font-size: 3rem;
+    font-weight: normal;
+    font-style: italic;
+    letter-spacing: 3px;
+    
+}
+h3{
+    font-family: 'IM Fell DW Pica', serif;
+    color : #11999E;
+    font-size: 30px;
+    font-style: italic;
+    letter-spacing: 3px;
+}
+p{
+    font-family: 'Cantarell', sans-serif;
+    font-size: 20px;
+    color: #40514E;
+    font-weight: 900;
+    word-spacing : 8px;
+}
+span.pro{
+    
+    text-decoration: underline;
+}
+
+
+
+
+.coding-img{
+    width : 30%;
+    float : left;
+    margin-right: 50px;
+}
+
+.sketch-img{
+    width : 30%;
+    float : right;
+    margin-left : 50px;
+  }
+
+a{
+   color : #11999E;
+   }
+
+.skill-row{
+    width : 50%;    
+    margin : 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+hr{
+    border-top : 10px;
+    border-style: dotted;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    color : #a0a1a1;
+    width : 5%;
+
+    margin : 100px auto 100px auto;
+}
+
+.my-image{
+    margin-top : 100px;
+    width : 13%;
+}
+
+
+.bottom-container{
+    background-color: #66BFBF;
+    height: 150px;
+    margin-top: 30px;
+}
+
+.copyright{
+    color : white;    
+    font-size: 15px;
+    margin-top: 32px;
+}
+
+.footer-link{ 
+
+    font-size: 18px;
+    text-decoration: none;
+    display : inline-block;
+    position : relative;
+    margin-top: 20px;
+    margin-left: 30px;
+    padding: 20px;
+}
+
+
+.btn {
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+    background: #6FDCD7;
+    background-image: -webkit-linear-gradient(top, #6FDCD7, #66BFBB);
+    background-image: -moz-linear-gradient(top, #6FDCD7, #66BFBB);
+    background-image: -ms-linear-gradient(top, #6FDCD7, #66BFBB);
+    background-image: -o-linear-gradient(top, #6FDCD7, #66BFBB);
+    background-image: -webkit-gradient(to bottom, #6FDCD7, #66BFBB);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 10px;
+    height: 20px;
+    line-height: 20px;
+    color: #FFFFFF;
+    font-family: Arial;
+    width: 100px;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 12px;
+    -webkit-box-shadow: 1px 1px 20px 0 #54848B;
+    -moz-box-shadow: 1px 1px 20px 0 #54848B;
+    box-shadow: 1px 1px 20px 0 #54848B;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #66BFBB 1px;
+    -webkit-border-radius: 20px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    background: #00FFDE;
+    border: solid #337FED 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+
+ .footer-link:hover{
+     color : white;
+     
+ }
+
+ .cloud-3{
+     width : 15%;
+     position : absolute;
+     left: 200px;
+     top : 50px;
+     
+ }
+
+ 
+
+ .cloud-1{
+    position : absolute;
+    top : 350px;
+    left : 250px;
+    width : 12%;
+    
+}
+
+.cloud-2{
+    position: absolute;
+    top : 200px;
+    right : 200px;
+    width : 13%;
+   
+}
+
+.intro{
+    width : 30%;
+    margin : auto;
+}
+
+.extro{
+    width : 30%;
+    margin : 50px auto 70px auto;
+}
